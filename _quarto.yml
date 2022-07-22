@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "livrojs"
+  author: "Robin Kohrs"
+  date: "7/22/2022"
+  toc: true
+  toc-depth: 3
+  chapters:
+    - index.qmd
+    - svelte.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
