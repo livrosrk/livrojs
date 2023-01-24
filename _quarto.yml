@@ -10,6 +10,7 @@ book:
   toc-depth: 3
   chapters:
     - index.qmd
+    - looping.qmd
     - svelte.qmd
 
 bibliography: references.bib

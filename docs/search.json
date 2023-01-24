@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "looping.html",
+    "href": "looping.html",
+    "title": "2  Loops",
+    "section": "",
+    "text": "```{ojs}\npersons = {\n\"mike\": {\nage: 32,\nheight: 180\n},\n\"anna\": {\nage: 32,\nheight: 175\n}\n}\n}\n```\n\n\n\n\n\n\n\nOJS Syntax Error (line 14, column 7)Unexpected token\n\n\n\n\n\n\n\n\n\nconsole.log(\"persons: \", persons)"
+  }
+]
